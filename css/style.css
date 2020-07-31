@@ -6,7 +6,7 @@
 .header
 {
 	height: 700px;
-	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../img/banner1.JPG);
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../img/banner1.jpg);
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -183,7 +183,7 @@ h1
 .banner
 {
 	height: 650px;
-	background-image: url(../img/banner2.JPG);
+	background-image: url(../img/banner2.jpg);
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
